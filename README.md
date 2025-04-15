@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
 
 <hr/>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width="230"> -->
-🧐 More About Me:
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width="230"> -->0
+### 🧐 More About Me:
 🌟 Bringing innovation to life through scalable, high-performance web applications.  
 ⚡ Passionate about creating seamless user experiences and optimizing complex systems.  
 🤝 Let's build something extraordinary together!
